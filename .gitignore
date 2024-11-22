@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 data/*
+Multilayer_Perceptron/*.csv
+BuildersGuide/x-file
+BuildersGuide/x-files
+BuildersGuide/*params
